@@ -1,5 +1,17 @@
-# Workflow as Code (WaC) frameworks / Workflow Platforms / Workflow Orchestration / Workflow Engines / Workflow Tools / Workflow Microservices / Workflow Schedulers / Workflow Managers / Workflow Libraries
+# Not(e)worthy Workflow Management Tools
 This is a somewhat curated, somewhat arbitrary, list of workflow software desinged to be stumbled upon 24x7 by anyone from anywhere.
+
+- [Workflow as Code (WaC)](#workflow-as-code--wac-)
+- [Workflow BPM Platforms](#workflow-bpm-platforms)
+- [Workflow Shedulers](#workflow-shedulers)
+- [Workflow Engines](#workflow-engines)
+- [Workflow Orchestration](#workflow-orchestration)
+- [Workflow Microservices](#workflow-microservices)
+- [Workflow BPM Suites](#workflow-bpm-suites)
+- [Workflow Managers](#workflow-managers)
+- [Workflow Libraries (in various languages)](#workflow-libraries--in-various-languages-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Workflow as Code (WaC)
 * [DigDag](https://www.digdag.io) - Digdag is a Workflow as Code framework that supports multi-cloud environments. Digdag allows you to define workflows in YAML making it suitable to manage your workflows with configuration management software like Ansible/Chef etc. Digdag allows you to write and execute Python or Ruby scripts (called plugins) allowing you to to automate complex tasks and pipelines.
@@ -33,7 +45,7 @@ This is a somewhat curated, somewhat arbitrary, list of workflow software desing
 * [jBPM](https://www.jbpm.org/) - At it's core, jBPM is a light-weight, adaptable workflow engine written in Java that supports the latest BPMN 2.0 specification.
 
 ## Workflow Managers
-* [Pinball](https://github.com/pinterest/pinball) - scalable workflow manager by Pinterest
+* [Pinball](https://github.com/pinterest/pinball) - Scalable workflow manager by Pinterest
 * [Kiba](https://www.kiba-etl.org/) - Data processing & ETL framework for Ruby
 
 ## Workflow Libraries (in various languages)
